@@ -1,11 +1,29 @@
-# 💫 About Me:
-🔭 I'm currently working on integrating artificial intelligence into daily workflows and building smart automations.<br><br>👯 I'm looking to collaborate on innovative software engineering challenges and hardware-software integration.<br><br>🤝 I'm looking for help with advanced data processing and exploring new tech stacks.<br><br>🌱 I'm currently learning advanced concepts in Information Systems Engineering and expanding my AI knowledge.<br><br>💬 Ask me about Python programming, 3D printing, and creative hardware modifications.<br><br>⚡ Fun fact: I draw a lot of my engineering inspiration from sci-fi universes—especially when it comes to AI!
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="Aras Tokdemir, founder of Çizgi Fikrim. Products: PiyasApp, CarLog, FocusGrid, FlowGraph, Vesira, PolishReel, ParçaFiyat, Ersoy. Stack: Swift, SwiftUI, TypeScript, Next.js, Python, Claude API, MCP and more.">
+</p>
 
+<details>
+<summary>Plain text</summary>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Aras Tokdemir**, founder of **Çizgi Fikrim**. iOS apps, web SaaS and AI systems, from Turkey.
 
----
-[![](https://visitcount.itsvg.in/api?id=arastokdemir1&icon=0&color=0)](https://visitcount.itsvg.in)
+| Product | What it does | Stack |
+|---|---|---|
+| PiyasApp | Car culture, social discovery | SwiftUI, Supabase, MapKit, Vision |
+| CarLog | Trips, fuel and toll costs | SwiftUI, SwiftData, CarPlay, Live Activities |
+| FocusGrid | Focus timer with app blocking | SwiftUI, Screen Time API, WidgetKit |
+| FlowGraph | Personal finance tracker | SwiftUI, SwiftData, StoreKit 2, WidgetKit |
+| Vesira | AI room redesign | Next.js, TypeScript, Claude API, MCP, Postgres |
+| PolishReel | AI product photos and short videos | Next.js, TypeScript, fal.ai, Polar, Postgres |
+| ParçaFiyat | Auto parts price and stock for sellers | Chrome Extension, JavaScript, Python, Playwright |
+| Ersoy | Cognitive architecture | Python, FastAPI, PyTorch, ONNX, OpenCV |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**iOS:** Swift, SwiftUI, SwiftData, WidgetKit, Live Activities, CarPlay, Screen Time API, StoreKit 2, MapKit, Vision
+**Web:** TypeScript, Next.js, React, Tailwind, Postgres, Supabase
+**AI:** Claude API, MCP, AI agent teams, PyTorch, ONNX, OpenCV
+**Automation:** Python, FastAPI, Playwright, Chrome Extensions
+**Hardware:** 3D Printing, Home Assistant
+
+</details>
+
+<p align="center"><a href="https://cizgifikrim.net">cizgifikrim.net</a></p>
