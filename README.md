@@ -18,11 +18,11 @@
 | ParçaFiyat | Auto parts price and stock for sellers | Chrome Extension, JavaScript, Python, Playwright |
 | Ersoy | Cognitive architecture | Python, FastAPI, PyTorch, ONNX, OpenCV |
 
-**iOS:** Swift, SwiftUI, SwiftData, WidgetKit, Live Activities, CarPlay, Screen Time API, StoreKit 2, MapKit, Vision
-**Web:** TypeScript, Next.js, React, Tailwind, Postgres, Supabase
-**AI:** Claude API, MCP, AI agent teams, PyTorch, ONNX, OpenCV
-**Automation:** Python, FastAPI, Playwright, Chrome Extensions
-**Hardware:** 3D Printing, Home Assistant
+- **iOS:** Swift, SwiftUI, SwiftData, WidgetKit, Live Activities, CarPlay, Screen Time API, StoreKit 2, MapKit, Vision
+- **Web:** TypeScript, Next.js, React, Tailwind, Postgres, Supabase
+- **AI:** Claude API, MCP, AI agent teams, PyTorch, ONNX, OpenCV
+- **Automation:** Python, FastAPI, Playwright, Chrome Extensions
+- **Hardware:** 3D Printing, Home Assistant
 
 </details>
 
